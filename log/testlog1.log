@@ -35,3 +35,7 @@
 2023-03-14 05:39:39,140 [main] INFO ebanking - Enter password
 2023-03-14 05:39:42,474 [main] INFO ebanking - Click on Sing in button
 2023-03-14 05:39:46,488 [main] INFO ebanking - Login Test passed
+2023-03-14 06:08:26,303 [main] INFO ebanking - URL is Opened
+2023-03-14 06:08:26,873 [main] INFO ebanking - Enter user name
+2023-03-14 06:08:27,240 [main] INFO ebanking - Enter password
+2023-03-14 06:08:33,843 [main] INFO ebanking - Click on Sing in button
