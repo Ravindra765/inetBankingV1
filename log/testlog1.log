@@ -1,0 +1,37 @@
+2023-03-14 05:09:52,068 [main] INFO ebanking - URL is Opened
+2023-03-14 05:09:54,248 [main] INFO ebanking - Enter user name
+2023-03-14 05:09:54,869 [main] INFO ebanking - Enter password
+2023-03-14 05:09:56,085 [main] INFO ebanking - Click on Sing in button
+2023-03-14 05:12:49,007 [main] INFO ebanking - URL is Opened
+2023-03-14 05:12:49,524 [main] INFO ebanking - Enter user name
+2023-03-14 05:12:49,774 [main] INFO ebanking - Enter password
+2023-03-14 05:12:52,082 [main] INFO ebanking - Click on Sing in button
+2023-03-14 05:15:14,069 [main] INFO ebanking - URL is Opened
+2023-03-14 05:15:14,386 [main] INFO ebanking - Enter user name
+2023-03-14 05:15:14,736 [main] INFO ebanking - Enter password
+2023-03-14 05:15:15,482 [main] INFO ebanking - Click on Sing in button
+2023-03-14 05:24:23,432 [main] INFO ebanking - URL is Opened
+2023-03-14 05:24:24,295 [main] INFO ebanking - Enter user name
+2023-03-14 05:24:24,652 [main] INFO ebanking - Enter password
+2023-03-14 05:24:25,744 [main] INFO ebanking - Click on Sing in button
+2023-03-14 05:27:12,096 [main] INFO ebanking - URL is Opened
+2023-03-14 05:27:12,552 [main] INFO ebanking - Enter user name
+2023-03-14 05:27:12,764 [main] INFO ebanking - Enter password
+2023-03-14 05:27:13,748 [main] INFO ebanking - Click on Sing in button
+2023-03-14 05:28:39,530 [main] INFO ebanking - URL is Opened
+2023-03-14 05:28:39,806 [main] INFO ebanking - Enter user name
+2023-03-14 05:28:39,968 [main] INFO ebanking - Enter password
+2023-03-14 05:28:41,333 [main] INFO ebanking - Click on Sing in button
+2023-03-14 05:35:39,969 [main] INFO ebanking - URL is Opened
+2023-03-14 05:35:40,305 [main] INFO ebanking - Enter user name
+2023-03-14 05:35:40,462 [main] INFO ebanking - Enter password
+2023-03-14 05:35:41,546 [main] INFO ebanking - Click on Sing in button
+2023-03-14 05:37:41,619 [main] INFO ebanking - URL is Opened
+2023-03-14 05:37:42,013 [main] INFO ebanking - Enter user name
+2023-03-14 05:37:42,212 [main] INFO ebanking - Enter password
+2023-03-14 05:37:44,285 [main] INFO ebanking - Click on Sing in button
+2023-03-14 05:39:38,233 [main] INFO ebanking - URL is Opened
+2023-03-14 05:39:38,561 [main] INFO ebanking - Enter user name
+2023-03-14 05:39:39,140 [main] INFO ebanking - Enter password
+2023-03-14 05:39:42,474 [main] INFO ebanking - Click on Sing in button
+2023-03-14 05:39:46,488 [main] INFO ebanking - Login Test passed

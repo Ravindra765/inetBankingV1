@@ -9,7 +9,7 @@ import com.inetBanking.pageObjects.LoginPage;
 
 public class TC_LoginTest_001 extends BaseClass {
 @Test
-public void loginTest() throws IOException {
+public void loginTest() throws IOException, InterruptedException {
 	
 	logger.info("URL is Opened");
 	LoginPage lp=new LoginPage(driver);
@@ -19,12 +19,13 @@ public void loginTest() throws IOException {
 	logger.info("Enter password");
 	lp.clickSubmit();
 	logger.info("Click on Sing in button");
-	if(driver.getTitle().equals("Guru99 Bank Manager HomePage123")) {
+	Thread.sleep(4000);
+	if(driver.getTitle().equals("Guru99 Bank Manager HomePage")) {
 		Assert.assertTrue(true);
-		//logger.info("Login Test passed");
+		logger.info("Login Test passed");
 	}
 	else{
-		captureScreen(driver,"loginTest");
+		//captureScreen(driver,"loginTest");
 		Assert.assertTrue(false);
 		logger.info("Login Test failed");
 	}
